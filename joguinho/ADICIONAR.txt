@@ -1,0 +1,7 @@
+Obrigado por testar o jogo. Faltam alguns recursos à serem adicionados:
+	1) Um sistema de pontuação, o que implica em não termos mais um número ilimitado de tentativas.
+	2) Uma espécie de placar, onde poderíamos salvar nossos nomes junto de nossas respectivas pontuações, assim fortalecendo o espírito competitivo.
+	3) Talvez um seletor de dificuldade (fácil, médio. difícil).
+	4) E, por fim, um modo 'co-op', ou 'de dois' (para os mais íntimos) onde dois jogadores revezariam-se dando palpites de números e o sistema de pontuação seria aplicado de forma individual para cada um dos dois.
+
+SUGESTÕES, CRÍTICAS E/OU CONTATO: mateus12092004@gmail.com
